@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+online_retail.csv
+online_retail/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
